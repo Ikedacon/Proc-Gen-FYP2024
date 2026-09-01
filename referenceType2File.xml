@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>39149b213cdd7da4aacc59f371c98ffd</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2026-09-01T20:07:25.4265599+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2d983809f786e5408cbe496f81bb85a</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2026-09-01T20:07:25.440638+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b9299e434b0382418d9c98808b6b79d</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2026-09-01T20:07:25.4456715+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7eab3008e60b61f438c8b9d20ef35a9a</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2026-09-01T20:07:25.4500257+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d2d3fad8d566ef43b69f90394eb80c1</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2026-09-01T20:07:25.455415+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b1b20f3268d5c944b7ed1e6c36a3558</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2026-09-01T20:07:25.4589401+05:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>46a6bb6928ae6374a85197a1fd7be2a1</guid>
+    <fileName>Assets/BGmusic.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.7510121+05:00</timeStamp>
+    <typeFullName>
+      <string>BGmusic</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58d0bf13bd7e4274981f63187e00f0db</guid>
+    <fileName>Assets/cameraRotation.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.849764+05:00</timeStamp>
+    <typeFullName>
+      <string>cameraRotation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ea0a2bc889a69845bbd252ecd6e69ad</guid>
+    <fileName>Assets/ChestBehaviour.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.7785808+05:00</timeStamp>
+    <typeFullName>
+      <string>ChestBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75a25e1104945b94888b82d1d0d943cc</guid>
+    <fileName>Assets/dealDamage.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.8507633+05:00</timeStamp>
+    <typeFullName>
+      <string>dealDamage</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>adfb924c053ed2f4e95db487cfd908b6</guid>
+    <fileName>Assets/disableEnableAtStart.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.8517627+05:00</timeStamp>
+    <typeFullName>
+      <string>disableEnableAtStart</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>87e522ac71543884c9163dae1b82e53e</guid>
+    <fileName>Assets/DoorColliderBehaviour.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.9230108+05:00</timeStamp>
+    <typeFullName>
+      <string>DoorColliderBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e81af95f2671a6b43a3e758b18f07314</guid>
+    <fileName>Assets/EnemyAggroCheck.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.9280076+05:00</timeStamp>
+    <typeFullName>
+      <string>EnemyAggroCheck</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a13278bcd51de447b5ca1ab8d0be2c5</guid>
+    <fileName>Assets/EnemyAttackCheck.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.929007+05:00</timeStamp>
+    <typeFullName>
+      <string>EnemyAttackCheck</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a2f9192a9b7bce4081fc63583da5b00</guid>
+    <fileName>Assets/EnemyFollow.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.9300056+05:00</timeStamp>
+    <typeFullName>
+      <string>EnemyFollow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a07e67e0725b69243ba80d07da72bf16</guid>
+    <fileName>Assets/EnemyVitals.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.9310051+05:00</timeStamp>
+    <typeFullName>
+      <string>EnemyVitals</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e231d6c490e3eea4eacbfc0a0bf24318</guid>
+    <fileName>Assets/FacePlayer.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.9320043+05:00</timeStamp>
+    <typeFullName>
+      <string>FacePlayer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc1517c13976cbf47916eb5ac488fee6</guid>
+    <fileName>Assets/FloatingWallDetection.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.9320043+05:00</timeStamp>
+    <typeFullName>
+      <string>FloatingWallDetection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11bdfe20677ee95428b9954477aace87</guid>
+    <fileName>Assets/followScript.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.8527622+05:00</timeStamp>
+    <typeFullName>
+      <string>followScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e2d1e40303edc1499a83b2ef30e7d53</guid>
+    <fileName>Assets/GameVariables.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1079403+05:00</timeStamp>
+    <typeFullName>
+      <string>GameVariables</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83dc7788004358e49a63aa65f90de584</guid>
+    <fileName>Assets/HideUnhideMouse.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2298653+05:00</timeStamp>
+    <typeFullName>
+      <string>HideUnhideMouse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa7b275b9b10a8145960d64edc642e8c</guid>
+    <fileName>Assets/initializePlayerItemsandVitals.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.8537614+05:00</timeStamp>
+    <typeFullName>
+      <string>initializePlayerItemsandVitals</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27eab031618929a4b98fbab1dfc1aaef</guid>
+    <fileName>Assets/itemBehaviour.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.8547613+05:00</timeStamp>
+    <typeFullName>
+      <string>itemBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b237d17b0b355de4992c0cf06385e861</guid>
+    <fileName>Assets/ItemSpawner.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.6914374+05:00</timeStamp>
+    <typeFullName>
+      <string>ItemSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b50cac43de925340bda3a1058feed5f</guid>
+    <fileName>Assets/LevelTransition.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.7034303+05:00</timeStamp>
+    <typeFullName>
+      <string>LevelTransition</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43063af02f67f4a4d91adf0a3f10d280</guid>
+    <fileName>Assets/LightFlicker.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.7041746+05:00</timeStamp>
+    <typeFullName>
+      <string>LightFlicker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5f1fa9a66b7c694991fa6674a40be2c</guid>
+    <fileName>Assets/LightOrb.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.7061669+05:00</timeStamp>
+    <typeFullName>
+      <string>LightOrb</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80758b8fd92689b4b9c4f4ea94cd7da9</guid>
+    <fileName>Assets/MainMenu.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2329065+05:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>09b5ddaa87aaae04fb28f331bdc1e754</guid>
+    <fileName>Assets/NavMeshBaker.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.233906+05:00</timeStamp>
+    <typeFullName>
+      <string>NavMeshBaker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f395369e5865c9847abec94fb0f7b16f</guid>
+    <fileName>Assets/PauseMenuController.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.108682+05:00</timeStamp>
+    <typeFullName>
+      <string>PauseMenuController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d4992cbc710c6bb4b8a6018ff2dbf924</guid>
+    <fileName>Assets/playerDied.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.8557607+05:00</timeStamp>
+    <typeFullName>
+      <string>playerDied</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a0da085336c2bab46b049fab6ea9024c</guid>
+    <fileName>Assets/ScenesManager.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.1728484+05:00</timeStamp>
+    <typeFullName>
+      <string>ScenesManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>edab64574ed8592448cb1b48f688cb85</guid>
+    <fileName>Assets/SpikesTrigger.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.2918168+05:00</timeStamp>
+    <typeFullName>
+      <string>SpikesTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71c3a2bfde959d940b38d2c42ed21caa</guid>
+    <fileName>Assets/VitalBar.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.8487656+05:00</timeStamp>
+    <typeFullName>
+      <string>VitalBar</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ad7a0ab8ca9ac447b110a1d86a00100</guid>
+    <fileName>Assets/Editor/ForceExternalMaterialProcessor.cs</fileName>
+    <timeStamp>2024-10-20T23:28:57.9270086+05:00</timeStamp>
+    <typeFullName>
+      <string>ForceEmbeddedMaterialProcessor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17c660afefa23e645a024fa811f260a6</guid>
+    <fileName>Assets/Testing/RoomGenerator.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.2988131+05:00</timeStamp>
+    <typeFullName>
+      <string>RoomGenerator</string>
+      <string>RoomGenerator+Cell</string>
+      <string>RoomGenerator+Rule</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>14f8a4a7152d1f04da7535f2392f4c87</guid>
+    <fileName>Assets/2D Progress Bar Toolkit/Scripts/CircularProgressBar.cs</fileName>
+    <timeStamp>2024-10-20T23:28:55.1700124+05:00</timeStamp>
+    <typeFullName>
+      <string>CircularProgressBar</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4cbab83af6de4bc29177592e46c24bc</guid>
+    <fileName>Assets/2D Progress Bar Toolkit/Scripts/ClassicProgressBar.cs</fileName>
+    <timeStamp>2024-10-20T23:28:55.1720098+05:00</timeStamp>
+    <typeFullName>
+      <string>ClassicProgressBar</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a96825e094d61441b5247d0c32652b3</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Editor/GraphyDebuggerEditor.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1199335+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1bb06e7c222a60f47a476e2648224330</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Editor/GraphyEditorStyle.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.120932+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f01a5c28e5127404da343db2a7409c10</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Editor/GraphyManagerEditor.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1219322+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68962e071a0ce0549a853f10c6af3f54</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Editor/GraphyMenuItem.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1229308+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cb8428f1f208dcc49b6c04976d44cbc9</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/GraphyDebugger.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1968855+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c80e6d63202cef44ca3ffdaccec693be</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/GraphyManager.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.197885+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>339b11723b6f39646b46a7e4157e3b48</guid>
+    <fileName>Assets/MAEZ/Scripts/DoorBehaviour.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.1974132+05:00</timeStamp>
+    <typeFullName>
+      <string>DoorBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82deeac14fb99b147bb2c061c271b70a</guid>
+    <fileName>Assets/MAEZ/Scripts/DungeonGenerator.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.1984132+05:00</timeStamp>
+    <typeFullName>
+      <string>DungeonGenerator</string>
+      <string>DungeonGenerator+Cell</string>
+      <string>DungeonGenerator+Rule</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>61ed116a15024074195422b0a6a6d1d3</guid>
+    <fileName>Assets/MAEZ/Scripts/OrbitCameraController.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2099205+05:00</timeStamp>
+    <typeFullName>
+      <string>OrbitCameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b22b4294f4d660a4dba43a15bbe5df15</guid>
+    <fileName>Assets/MAEZ/Scripts/PlayerItemsandVitals.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2109209+05:00</timeStamp>
+    <typeFullName>
+      <string>PlayerItemsandVitals</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e478c0cc6d326d0428f3ef40bdce5aca</guid>
+    <fileName>Assets/MAEZ/Scripts/PlayerMovement.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2119196+05:00</timeStamp>
+    <typeFullName>
+      <string>PlayerMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e25a9c8ca167fd4eaf7ef2b13255c8a</guid>
+    <fileName>Assets/MAEZ/Scripts/RoomBehaviour.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2129186+05:00</timeStamp>
+    <typeFullName>
+      <string>RoomBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5532298fecc0aef46829112ad7af7836</guid>
+    <fileName>Assets/MAEZ/Scripts/RoomTesting.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2139185+05:00</timeStamp>
+    <typeFullName>
+      <string>RoomTesting</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9d23a4df87b1804e9c2c121b3fd0906</guid>
+    <fileName>Assets/MAEZ/Scripts/VariantRandomizer.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2169169+05:00</timeStamp>
+    <typeFullName>
+      <string>VariantRandomizer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8aeccc69683e38c4697c0193deac2523</guid>
+    <fileName>Assets/MAEZ/Scripts/WallCollision.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2179163+05:00</timeStamp>
+    <typeFullName>
+      <string>WallCollision</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5d4792eb6ef99942934dc65ecfdcc2e</guid>
+    <fileName>Assets/MAEZ/Scripts/WallCollisionDetection.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2189152+05:00</timeStamp>
+    <typeFullName>
+      <string>WallCollisionDetection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c1019d31db77fd468164577146737ad</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Advanced/G_AdvancedData.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1808958+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2d6ca19dafe21b4b983441274e7f12a</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Audio/G_AudioGraph.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1828938+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c0448d8db852b54480670d291c04f1a</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Audio/G_AudioManager.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1838933+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2216f4eff6a7a8a43b38b180fdd2fd9e</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Audio/G_AudioMonitor.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1858923+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>766a588f9a6cb55499c66ea772072e11</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Audio/G_AudioText.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.186892+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e119c7747ac400478c7cfcaea03214e</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Fps/G_FpsGraph.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1888902+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>221dc0b3655ddb749ace6bad55f0159f</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Fps/G_FpsManager.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1898899+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b205584e495e4634aa3a332a78102a19</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Fps/G_FpsMonitor.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1908895+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f74bbf307d92b0d4e81ae60b9eb1e42f</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Fps/G_FpsText.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1918886+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67969a520b115cd47a7d955c9b2abfa6</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Graph/G_Graph.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1948872+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a9c49f1e95f2dab428b3a0ed56328a1c</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Ram/G_RamGraph.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.1998838+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84f7591c01b7f1a4ab82f1a0038491da</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Ram/G_RamManager.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2008822+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2494656f0dd693144be1306d5551e544</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Ram/G_RamMonitor.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2018816+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28d32ee74b6e6d24ea89d1b477060318</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Ram/G_RamText.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2028808+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0ddb605ced1369e409812b4f405221cd</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Shader/G_GraphShader.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2048807+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f4bf9244f3564807b739e8f5138ce08</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/UI/G_SafeArea.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2078788+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cbc1852edf51f8046aed2f13ea532ea9</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/UI/IModifiableState.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2088782+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8a935302390075f45843775173889f94</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/UI/IMovable.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2108767+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5aef4337f2241ec4d9a2ea5883fd1828</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Util/G_ExtensionMethods.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2128757+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7eaf0f83a3530240a97ac1c51d6f2e6</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Util/G_FloatString.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2138749+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2584aec3ab9f9af49bbdb1477908274e</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Util/G_Intstring.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2158737+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dbf324bd9d0eaf7408f3b72ed03e2588</guid>
+    <fileName>Assets/Graphy - Ultimate Stats Monitor/Runtime/Util/G_Singleton.cs</fileName>
+    <timeStamp>2024-10-20T23:28:58.2168736+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b272a472f4976ff4ba489ac469c58f34</guid>
+    <fileName>Assets/MAEZ/Scripts/Enemy Follow/AgentLinkMover.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2004129+05:00</timeStamp>
+    <typeFullName>
+      <string>OffMeshLinkMoveMethod</string>
+      <string>AgentLinkMover</string>
+      <string>AgentLinkMover+LinkEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>98191304e95d78849a79d5b8f9944819</guid>
+    <fileName>Assets/MAEZ/Scripts/Enemy Follow/AreaFloorBaker.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2014114+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dacac43211a668e409cfabc05a14996a</guid>
+    <fileName>Assets/MAEZ/Scripts/Enemy Follow/EnemySpawner.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2059235+05:00</timeStamp>
+    <typeFullName>
+      <string>EnemySpawner</string>
+      <string>EnemySpawner+SpawnMethod</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e087ecce43ebbff45a1b360637807d93</guid>
+    <fileName>Assets/Other/StarterAssets/InputSystem/StarterAssetsInputs.cs</fileName>
+    <timeStamp>2024-10-20T23:29:08.6964305+05:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.StarterAssetsInputs</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f970ea55f9f84bf79b05dab180b8c125</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ef7be1c625941f7ba8ed7cc71718c0d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01_UGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8538afcddc14efbb5d9e94b7ae50197</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark02</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a73109742c8d47ac822895a473300c29</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark03</string>
+      <string>TMPro.Examples.Benchmark03+BenchmarkType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc20866c0d5e413ab7559440e15333ae</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark04</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d687537154440a3913a9a3c7977978c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.CameraController</string>
+      <string>TMPro.Examples.CameraController+CameraModes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53d91f98a2664f5cb9af11de72ac54ec</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>ChatController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac1eb05af6d391b4eb0f4c070a99f1d0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>DropdownSample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4b6f99e8bc54541bbd149b014ff441c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>EnvMapAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f19c7f94c794c5097d8bd11e39c750d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ObjectSpin</string>
+      <string>TMPro.Examples.ObjectSpin+MotionType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2787a46a4dc848c1b4b7b9307b614bfd</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ShaderPropAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9eff140b25d64601aabc6ba32245d099</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SimpleScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d412675cfb3441efa3bf8dcd9b7624dc</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SkewTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e32c266ee6204b21a427753cb0694c81</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TeleType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43bcd35a1c0c40ccb6d472893fe2093f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextConsoleSimulator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4d4c76e63944cba8c7d00f56334b98c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshProFloatingText</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76c11bbcfddf44e0ba17d6c2751c8d84</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3c1afeda5e545e0b19add5373896d2e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMPro_InstructionOverlay</string>
+      <string>TMPro.Examples.TMPro_InstructionOverlay+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a7eb92a01ed499a987bde9def05fbce</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_DigitValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f2c5b59b6874405865e2616e4ec276a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_ExampleScript_01</string>
+      <string>TMPro.Examples.TMP_ExampleScript_01+objectType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>686ec78b56aa445795335fbadafcfaa4</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_FrameRateCounter</string>
+      <string>TMPro.Examples.TMP_FrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83680ab1a69f4102ac67d1459fe76e1f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_PhoneNumberValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d736ce056cf444ca96e424f4d9c42b76</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextEventCheck</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1312ae25639a4bae8e25ae223209cc50</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_TextEventHandler</string>
+      <string>TMPro.TMP_TextEventHandler+CharacterSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+SpriteSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+WordSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LineSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LinkSelectionEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21256c5b62f346f18640dad779911e20</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextInfoDebugTool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103e0a6a1d404693b9fb1a5173e0e979</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_A</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a05dcd8be7ec4ccbb35c26219884aa37</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_B</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24b0dc2d1d494adbbec1f4db26b4cf83</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter</string>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91b8ba3d52e041fab2d0e0f169855539</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexColorCycler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2ed57967c52645d390a89dcf8f61ba73</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexJitter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7cfa58e417a46ea8889989684c2522e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeA</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4e0d9ccee5f4950be8979268c9014e0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeB</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52ec835d14bd486f900952b77698b7eb</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexZoom</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>790744c462254b7ba8038e6ed28b3db2</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs</fileName>
+    <timeStamp>2024-07-23T23:55:28+05:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.WarpTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c8d93aaae3bb1d74ab7ca05a40197d46</guid>
+    <fileName>Assets/UI/SteampunkUI/Scripts/BarsFillAnimations.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.7906472+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7acbfb9776b7edd4e9c2d5220460eea7</guid>
+    <fileName>Assets/UI/SteampunkUI/Scripts/CharacterStat.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.7916474+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0df2141fd4fc19945ac4b868d5c17a40</guid>
+    <fileName>Assets/UI/SteampunkUI/Scripts/ClockSlider.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.7926465+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd536cc649a00b248b0a60cfbf7af98d</guid>
+    <fileName>Assets/UI/SteampunkUI/Scripts/CursorSelector.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.7926465+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c710d22547c065429cbe2029690f240</guid>
+    <fileName>Assets/UI/SteampunkUI/Scripts/KeyFieldUnSelect.cs</fileName>
+    <timeStamp>2024-10-20T23:29:11.7956447+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77ff42eb1e9612343985a5d80e3b69ee</guid>
+    <fileName>Assets/MAEZ/Scripts/Enemy Follow/Enemy/Enemy.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2034177+05:00</timeStamp>
+    <typeFullName>
+      <string>Enemy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>54738892e67afc64091445708e85041d</guid>
+    <fileName>Assets/MAEZ/Scripts/Enemy Follow/Enemy/EnemyMovement.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2049238+05:00</timeStamp>
+    <typeFullName>
+      <string>EnemyMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0b148915f25495a45bd82b42c7ce75f6</guid>
+    <fileName>Assets/MAEZ/Scripts/Enemy Follow/Object Pools/ObjectPool.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2079219+05:00</timeStamp>
+    <typeFullName>
+      <string>ObjectPool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>983531ed8c969f24686458b29981f8e6</guid>
+    <fileName>Assets/MAEZ/Scripts/Enemy Follow/Object Pools/PoolableObject.cs</fileName>
+    <timeStamp>2024-10-20T23:29:00.2089219+05:00</timeStamp>
+    <typeFullName>
+      <string>PoolableObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>909d917d73a63f940ac158d02e936645</guid>
+    <fileName>Assets/Other/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.0966892+05:00</timeStamp>
+    <typeFullName>
+      <string>BasicRigidBodyPush</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc2ece5e3ba962741bce876691f6e4a6</guid>
+    <fileName>Assets/Other/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController copy.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.0976885+05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>26e54e5a728a9234ab24fcf1460ed8a2</guid>
+    <fileName>Assets/Other/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.098688+05:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.ThirdPersonController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/Other/StarterAssets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.1066837+05:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a300d010f57451488aa99000126fbd5</guid>
+    <fileName>Assets/Other/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs</fileName>
+    <timeStamp>2024-10-20T23:29:08.8064027+05:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.UICanvasControllerInput</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>901182334643ba1438a25accc6bd0c79</guid>
+    <fileName>Assets/Other/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs</fileName>
+    <timeStamp>2024-10-20T23:29:08.8094004+05:00</timeStamp>
+    <typeFullName>
+      <string>MobileDisableAutoSwitchControls</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>448cd6d8e2f2cb04096e777d99974bc4</guid>
+    <fileName>Assets/Other/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs</fileName>
+    <timeStamp>2024-10-20T23:29:08.8435091+05:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualButton</string>
+      <string>UIVirtualButton+BoolEvent</string>
+      <string>UIVirtualButton+Event</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2cb8c4d669392748bb924209de33b85</guid>
+    <fileName>Assets/Other/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs</fileName>
+    <timeStamp>2024-10-20T23:29:08.8455073+05:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualJoystick</string>
+      <string>UIVirtualJoystick+Event</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65870f34fef70aa44b0f562cfc810220</guid>
+    <fileName>Assets/Other/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs</fileName>
+    <timeStamp>2024-10-20T23:29:08.8486748+05:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualTouchZone</string>
+      <string>UIVirtualTouchZone+Event</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/Other/StarterAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2024-10-20T23:29:10.1056843+05:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
